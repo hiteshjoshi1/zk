@@ -17,6 +17,10 @@ zk hack discord - thaler study group
 
 Thor what does he run?
 
+## Good tutorial- build focussed
+https://learn.0xparc.org/
+
+
 ## Repo of umbrella recommended resources 
 
 
