@@ -29,5 +29,8 @@ https://0xparc.notion.site/ZK-Learning-Group-Topics-f53933eecc2f41438c6c2bdd5b42
 #### Ingonyama - Huge - worth if diving deeper into something
 https://ingonyama-zk.github.io/ingopedia/
 
+#### Delendum
+https://kb.delendum.xyz/zk-knowledge
+
 #### From Thor
 https://github.com/thor314/zk-links
